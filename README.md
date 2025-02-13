@@ -34,3 +34,9 @@ Available models: GANs, Variational Autoencoders (VAEs), Transformers, DreamBoot
   - **Stable Diffusion XL**: [gen_image_sdxl_1.2.jpg](https://github.com/itisha89/image_recreation/blob/main/gen_image_sdxl_1.2.jpg), [gen_image_sdxl_2.jpg](https://github.com/itisha89/image_recreation/blob/main/gen_image_sdxl_2.jpg), [gen_image_sdxl_3.jpg](https://github.com/itisha89/image_recreation/blob/main/gen_image_sdxl_3.jpg)  
   - **Instruct-Pix2Pix** (Final Model): [generated_image_1](https://github.com/itisha89/image_recreation/blob/main/images_pix2pix_1.2.jpg), [generated_image_2](https://github.com/itisha89/image_recreation/blob/main/images_pix2pix_2.jpg), [generated_image_3](https://github.com/itisha89/image_recreation/blob/main/images_pix2pix_3.jpg).  
 - **Final Decision**: The Instruct-Pix2Pix model generated the most accurate replica, making it the preferred model for final submission.  
+
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
